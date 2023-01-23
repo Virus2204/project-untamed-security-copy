@@ -1145,5 +1145,5 @@ Description = User moves are Super Effective on Dragon-types.
 #-------------------------------
 [PREMONITION]
 Name = Premonition
-Description = mega xatu
+Description = The user manifests terrible disasters of what could be.
 #-------------------------------
