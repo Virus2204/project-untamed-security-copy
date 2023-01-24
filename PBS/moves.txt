@@ -9075,3 +9075,14 @@ FunctionCode = HigherDamageInRain
 Flags = CanProtect
 Description = The user attacks by sending a spray of superheated steam towards its target, this move's power is boosted in the rain.
 #-------------------------------
+[PREMONITIONMOVE]
+Name = Premonition Dummy
+Type = QMARKS
+Category = Special
+Power = 1
+Accuracy = 100
+TotalPP = 0
+Target = NearOther
+FunctionCode = AttackOneTurnLater
+Description = move used by Premonition
+#-------------------------------
