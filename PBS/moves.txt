@@ -9084,5 +9084,5 @@ Accuracy = 100
 TotalPP = 0
 Target = NearOther
 FunctionCode = AttackOneTurnLater
-Description = move used by Premonition
+Description = Move modified and used by Premonition. SHOULD NEVER BE A STANDALONE MOVE ON ANY POKÉMON.
 #-------------------------------
